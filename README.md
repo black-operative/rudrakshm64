@@ -1,6 +1,6 @@
 - Hi, I’m Rudraksh Mishra
-- I’m interested in full stack development and hardware programming
-- I’m currently learning Javascript, Typescript, Go, DSA and DAA
+- I’m interested in server side development and hardware programming
+- I’m currently learning Typescript, DSA and C/C++ 
 - How to reach me :
   - [X / Twitter](https://twitter.com/Rudraksh_M64)
   - [LinkedIn](https://www.linkedin.com/in/rudraksh-mishra-80a9a7258)
