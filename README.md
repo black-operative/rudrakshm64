@@ -1,4 +1,4 @@
-- Hi, I’m Rudraksh Mishra
+- Hi, I’m just an idiot who can write _some_ functional code.
 - I’m interested in server side development and hardware programming
 - I’m currently learning Typescript, DSA and C/C++ 
 - How to reach me :
